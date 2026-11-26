@@ -1,2 +1,5 @@
-# CAP1008-12625703
-CA3
+
+   int sum(int num1, int num2) {
+        return num1 + num2;
+    }
+};
